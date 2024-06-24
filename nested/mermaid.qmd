@@ -1,0 +1,6 @@
+# Mermaid Nested
+
+```{mermaid}
+flowchart TD
+	A --> B
+```

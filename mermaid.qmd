@@ -1,0 +1,6 @@
+# Mermaid Root
+
+```{mermaid}
+flowchart TD
+	A --> B
+```
